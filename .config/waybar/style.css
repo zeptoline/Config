@@ -1,0 +1,113 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "Font Awesome\ 5 Free", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: rgba(43, 48, 59, 0.3);
+    border-bottom: 3px solid transparent;
+    color: white;
+}
+
+#workspaces {
+    min-width: 920px;
+}
+
+#workspaces button {
+    padding: 0 10px;
+    background: transparent;
+    color: white;
+    border-bottom: 3px solid transparent;
+}
+
+#workspaces button.focused {
+    background: #64727D;
+    border-bottom: 3px solid white;
+}
+
+#mode {
+    background: transparent;
+    border-bottom: 3px solid @color15;
+    padding: 0 15px 0 15px;
+    min-width: 40px;
+}
+
+#clock, #battery, #cpu, #memory, #network, #pulseaudio, #temperature, #backlight {
+    padding: 0 6px;
+    margin: 0 5px;
+    border-bottom: 3px solid white;
+}
+
+#clock {
+    background-color: transparent;
+    color: white;
+}
+
+#battery {
+    color: white;
+}
+
+#battery.charging {
+    color: white;
+}
+
+@keyframes blink {
+    to {
+        background-color: rgba(1, 1, 1, 0);
+    }
+}
+
+#battery.warning:not(.charging) {
+    background: #f53c3c;
+    color: white;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#cpu {
+    background: transparent;
+    color: white;
+}
+
+#memory {
+    background: transparent;
+    color: white;
+}
+
+#network {
+    background: transparent;
+    color: white;
+    border-bottom: 3px solid seagreen;
+}
+
+#network.disconnected {
+    background: transparent;
+    color: white;
+    border-bottom: 3px solid firebrick;
+}
+
+#network.linked {
+    background: transparent;
+    color: white;
+    border-bottom: 3px solid red;
+}
+
+#pulseaudio {
+    background: transparent;
+    color: white;
+}
+
+#pulseaudio.muted {
+    border-bottom: 3px solid yellow
+}
+
+#tray {
+    background-color: transparent;
+    margin : 0 15px 0 15px;
+}

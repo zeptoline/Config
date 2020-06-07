@@ -1,0 +1,2007 @@
+# Ce fichier viminfo a été généré par Vim 8.2.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/Ctrl
+
+# Dernier motif de recherche Substitue  :
+~MSle0&tomato
+
+# Dernières chaînes de substitution :
+$red
+
+# Historique ligne de commande (chronologie décroissante) :
+:q
+|2,0,1591564038,,"q"
+:w
+|2,0,1591564035,,"w"
+:wq
+|2,0,1591562710,,"wq"
+:set syntax=json
+|2,0,1591561786,,"set syntax=json"
+:tabe PossiblesBG.txt
+|2,0,1591558590,,"tabe PossiblesBG.txt"
+:%
+|2,0,1591556720,,"%"
+:.!
+|2,0,1591556606,,".!"
+:%s;tomato;red;g
+|2,0,1591555743,,"%s;tomato;red;g"
+:split config
+|2,0,1591555149,,"split config"
+:tabe old.config
+|2,0,1591554435,,"tabe old.config"
+:tabe old.style.css
+|2,0,1591553560,,"tabe old.style.css"
+::37
+|2,0,1591553488,,":37"
+:tabe config
+|2,0,1591553181,,"tabe config"
+::122
+|2,0,1591553039,,":122"
+:qa
+|2,0,1591552594,,"qa"
+:set paste
+|2,0,1591549104,,"set paste"
+:tabe .config/waybar/style.css
+|2,0,1591548916,,"tabe .config/waybar/style.css"
+:tabe .config/sway/config
+|2,0,1591548701,,"tabe .config/sway/config"
+:q!
+|2,0,1591479810,,"q!"
+:ww
+|2,0,1591473404,,"ww"
+::48
+|2,0,1591476968,,":48"
+:retab
+|2,0,1591476002,,"retab"
+:set expandtab
+|2,0,1591476000,,"set expandtab"
+:set tabstop=4
+|2,0,1591475947,,"set tabstop=4"
+:tabe ~/.config/swayshot.sh
+|2,0,1591464160,,"tabe ~/.config/swayshot.sh"
+:tabe test
+|2,0,1591443936,,"tabe test"
+:set ignorecase
+|2,0,1591287797,,"set ignorecase"
+:tabe src/include/config_table.h
+|2,0,1591287760,,"tabe src/include/config_table.h"
+:tabe src/include/load_table.h
+|2,0,1591283827,,"tabe src/include/load_table.h"
+:tabe %
+|2,0,1591283411,,"tabe %"
+::tabe %
+|2,0,1591283375,,":tabe %"
+:tabe src/include/self_dl_conf.h
+|2,0,1591277649,,"tabe src/include/self_dl_conf.h"
+:tabe .config.cfg
+|2,0,1591271616,,"tabe .config.cfg"
+:tabe src/upload/upload_task.c
+|2,0,1591263425,,"tabe src/upload/upload_task.c"
+:tabe src/c
+|2,0,1591263377,,"tabe src/c"
+:tabe src/client/upload_client.c
+|2,0,1591257486,,"tabe src/client/upload_client.c"
+::q
+|2,0,1591257378,,":q"
+:tabe upload/upload_task.c
+|2,0,1591190589,,"tabe upload/upload_task.c"
+:tabe ../.config.cfg
+|2,0,1591190070,,"tabe ../.config.cfg"
+:%s;//log_print;log_print;g
+|2,0,1591184754,,"%s;//log_print;log_print;g"
+:tabe config/self_dl_conf.c
+|2,0,1591184553,,"tabe config/self_dl_conf.c"
+:tabe config/config_table.c
+|2,0,1591184522,,"tabe config/config_table.c"
+:tabe include/compatibilities.h
+|2,0,1591177681,,"tabe include/compatibilities.h"
+::1232
+|2,0,1591175177,,":1232"
+:Q
+|2,0,1591173132,,"Q"
+::1285
+|2,0,1591114461,,":1285"
+::59
+|2,0,1591114146,,":59"
+:tabe ../libs_lpt/include/loadPartTable.h
+|2,0,1591112144,,"tabe ../libs_lpt/include/loadPartTable.h"
+:split include/info.h
+|2,0,1591108369,,"split include/info.h"
+:vimgrep INDEX_RES
+|2,0,1591111294,,"vimgrep INDEX_RES"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+?/Ctrl
+|2,1,1591563666,47,"Ctrl"
+?/+P
+|2,1,1591563664,47,"+P"
+?/+p
+|2,1,1591563661,47,"+p"
+?/p
+|2,1,1591563658,47,"p"
+?/P
+|2,1,1591563654,47,"P"
+?/pause
+|2,1,1591563348,47,"pause"
+?/Pause
+|2,1,1591563345,47,"Pause"
+?/insert
+|2,1,1591563337,47,"insert"
+?/inset
+|2,1,1591563335,47,"inset"
+?/input
+|2,1,1591561939,47,"input"
+?/$term
+|2,1,1591561015,47,"$term"
+?/alacri
+|2,1,1591561011,47,"alacri"
+?/rofi
+|2,1,1591557728,47,"rofi"
+?/XDG_CURRENT_DESKTOP
+|2,1,1591557680,47,"XDG_CURRENT_DESKTOP"
+?/width
+|2,1,1591556535,47,"width"
+? tomato
+|2,1,1591555743,,"tomato"
+? \<network\>
+|2,1,1591553725,,"\\<network\\>"
+? ":
+|2,1,1591553701,,"\":"
+?/waybar
+|2,1,1591548704,47,"waybar"
+?/pointer_accel
+|2,1,1591481609,47,"pointer_accel"
+?/back
+|2,1,1591481533,47,"back"
+?/image
+|2,1,1591481527,47,"image"
+?/bar
+|2,1,1591477919,47,"bar"
+?//
+|2,1,1591476802,47,"/"
+?/slurp
+|2,1,1591470264,47,"slurp"
+? \<smart_gaps\>
+|2,1,1591469897,,"\\<smart_gaps\\>"
+?/app_id
+|2,1,1591468791,47,"app_id"
+? \<LangUpdate\>
+|2,1,1591467665,,"\\<LangUpdate\\>"
+? \<VolUpdate\>
+|2,1,1591467663,,"\\<VolUpdate\\>"
+?/+l
+|2,1,1591467396,47,"+l"
+?/cop
+|2,1,1591467054,47,"cop"
+?/screen
+|2,1,1591467039,47,"screen"
+?/-p
+|2,1,1591465280,47,"-p"
+?/exec
+|2,1,1591465128,47,"exec"
+?/+d
+|2,1,1591440145,47,"+d"
+?/vsfs
+|2,1,1591287800,47,"vsfs"
+?/Vsfs
+|2,1,1591287793,47,"Vsfs"
+?/lib
+|2,1,1591287651,47,"lib"
+? \<loadPn\>
+|2,1,1591286427,,"\\<loadPn\\>"
+? \<load_table_context\>
+|2,1,1591283901,,"\\<load_table_context\\>"
+? \<ppn\>
+|2,1,1591283852,,"\\<ppn\\>"
+? \<load_table_resetPartTableLoadSlot\>
+|2,1,1591283802,,"\\<load_table_resetPartTableLoadSlot\\>"
+? \<load_table_getInstalledLoadPN\>
+|2,1,1591283433,,"\\<load_table_getInstalledLoadPN\\>"
+? \<DEFAULT_PN\>
+|2,1,1591285831,,"\\<DEFAULT_PN\\>"
+?/PN
+|2,1,1591285817,47,"PN"
+? \<PN\>
+|2,1,1591284214,,"\\<PN\\>"
+?/getInstalled
+|2,1,1591283976,47,"getInstalled"
+?/sched
+|2,1,1591283279,47,"sched"
+? \<snprintfRet\>
+|2,1,1591281867,,"\\<snprintfRet\\>"
+? \<loadComplete\>
+|2,1,1591281725,,"\\<loadComplete\\>"
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+""0	LINE	0
+	#
+|3,1,0,1,1,0,1591564020,"#"
+"1	LINE	0
+	
+|3,0,1,1,1,0,1591563940,""
+"2	LINE	0
+	
+	# Disable XON/XOFF (Ctrl+s Ctrl+q)
+	stty -ixon
+|3,0,2,1,3,0,1591563926,"","# Disable XON/XOFF (Ctrl+s Ctrl+q)","stty -ixon"
+"3	LINE	0
+	
+|3,0,3,1,1,0,1591563923,""
+"4	LINE	0
+	
+|3,0,4,1,1,0,1591563920,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1591563919,""
+"6	LINE	0
+	
+	# Used for sway's tray
+	export XDG_CURRENT_DESKTOP=Unity
+	
+|3,0,6,1,4,0,1591563905,"","# Used for sway's tray","export XDG_CURRENT_DESKTOP=Unity",""
+"7	LINE	0
+	    natural_scroll enabled
+|3,0,7,1,1,0,1591562008,"    natural_scroll enabled"
+"8	BLOCK	2
+	   
+	   
+	   
+	   
+	   
+	   
+|3,0,8,2,6,2,1591561948,"   ","   ","   ","   ","   ","   "
+"9	BLOCK	0
+	#
+	#
+	#
+	#
+	#
+	#
+|3,0,9,2,6,0,1591561945,"#","#","#","#","#","#"
+"-	CHAR	0
+	margin
+|3,0,36,0,1,0,1591563396,"margin"
+
+# Marques dans le fichier :
+'0  143  0  ~/configeuh/.bashrc
+|4,48,143,0,1591564038,"~/configeuh/.bashrc"
+'1  35  14  ~/.config/waybar/style.css
+|4,49,35,14,1591563447,"~/.config/waybar/style.css"
+'2  34  25  ~/.config/waybar/style.css
+|4,50,34,25,1591563374,"~/.config/waybar/style.css"
+'3  34  25  ~/.config/waybar/style.css
+|4,51,34,25,1591563374,"~/.config/waybar/style.css"
+'4  1  0  /usr/share/X11/xkb/symbols/keypad
+|4,52,1,0,1591563362,"/usr/share/X11/xkb/symbols/keypad"
+'5  267  20  ~/.config/sway/config
+|4,53,267,20,1591562771,"~/.config/sway/config"
+'6  8  21  ~/.config/waybar/config
+|4,54,8,21,1591562710,"~/.config/waybar/config"
+'7  81  23  ~/.config/waybar/config
+|4,55,81,23,1591561815,"~/.config/waybar/config"
+'8  81  23  ~/.config/waybar/config
+|4,56,81,23,1591561815,"~/.config/waybar/config"
+'9  1  22  ~/.config/alacritty/alacritty.yml
+|4,57,1,22,1591561073,"~/.config/alacritty/alacritty.yml"
+
+# Liste de sauts (le plus récent en premier) :
+-'  143  0  ~/configeuh/.bashrc
+|4,39,143,0,1591564038,"~/configeuh/.bashrc"
+-'  21  27  ~/configeuh/.bashrc
+|4,39,21,27,1591563669,"~/configeuh/.bashrc"
+-'  166  34  ~/configeuh/.bashrc
+|4,39,166,34,1591563666,"~/configeuh/.bashrc"
+-'  164  36  ~/configeuh/.bashrc
+|4,39,164,36,1591563658,"~/configeuh/.bashrc"
+-'  8  0  ~/configeuh/.bashrc
+|4,39,8,0,1591563654,"~/configeuh/.bashrc"
+-'  1  0  ~/configeuh/.bashrc
+|4,39,1,0,1591563651,"~/configeuh/.bashrc"
+-'  35  14  ~/.config/waybar/style.css
+|4,39,35,14,1591563447,"~/.config/waybar/style.css"
+-'  35  14  ~/.config/waybar/style.css
+|4,39,35,14,1591563447,"~/.config/waybar/style.css"
+-'  1  0  ~/.config/waybar/style.css
+|4,39,1,0,1591563378,"~/.config/waybar/style.css"
+-'  1  0  ~/.config/waybar/style.css
+|4,39,1,0,1591563378,"~/.config/waybar/style.css"
+-'  34  25  ~/.config/waybar/style.css
+|4,39,34,25,1591563374,"~/.config/waybar/style.css"
+-'  34  25  ~/.config/waybar/style.css
+|4,39,34,25,1591563374,"~/.config/waybar/style.css"
+-'  34  25  ~/.config/waybar/style.css
+|4,39,34,25,1591563374,"~/.config/waybar/style.css"
+-'  34  25  ~/.config/waybar/style.css
+|4,39,34,25,1591563374,"~/.config/waybar/style.css"
+-'  1  0  /usr/share/X11/xkb/symbols/keypad
+|4,39,1,0,1591563362,"/usr/share/X11/xkb/symbols/keypad"
+-'  1  0  /usr/share/X11/xkb/symbols/keypad
+|4,39,1,0,1591563362,"/usr/share/X11/xkb/symbols/keypad"
+-'  1  0  /usr/share/X11/xkb/symbols/keypad
+|4,39,1,0,1591563362,"/usr/share/X11/xkb/symbols/keypad"
+-'  1  0  /usr/share/X11/xkb/symbols/keypad
+|4,39,1,0,1591563362,"/usr/share/X11/xkb/symbols/keypad"
+-'  482  71  /usr/share/X11/xkb/symbols/keypad
+|4,39,482,71,1591563341,"/usr/share/X11/xkb/symbols/keypad"
+-'  482  71  /usr/share/X11/xkb/symbols/keypad
+|4,39,482,71,1591563341,"/usr/share/X11/xkb/symbols/keypad"
+-'  482  71  /usr/share/X11/xkb/symbols/keypad
+|4,39,482,71,1591563341,"/usr/share/X11/xkb/symbols/keypad"
+-'  482  71  /usr/share/X11/xkb/symbols/keypad
+|4,39,482,71,1591563341,"/usr/share/X11/xkb/symbols/keypad"
+-'  360  50  /usr/share/X11/xkb/symbols/keypad
+|4,39,360,50,1591563339,"/usr/share/X11/xkb/symbols/keypad"
+-'  360  50  /usr/share/X11/xkb/symbols/keypad
+|4,39,360,50,1591563339,"/usr/share/X11/xkb/symbols/keypad"
+-'  360  50  /usr/share/X11/xkb/symbols/keypad
+|4,39,360,50,1591563339,"/usr/share/X11/xkb/symbols/keypad"
+-'  360  50  /usr/share/X11/xkb/symbols/keypad
+|4,39,360,50,1591563339,"/usr/share/X11/xkb/symbols/keypad"
+-'  267  20  ~/.config/sway/config
+|4,39,267,20,1591562771,"~/.config/sway/config"
+-'  267  20  ~/.config/sway/config
+|4,39,267,20,1591562771,"~/.config/sway/config"
+-'  267  20  ~/.config/sway/config
+|4,39,267,20,1591562771,"~/.config/sway/config"
+-'  267  20  ~/.config/sway/config
+|4,39,267,20,1591562771,"~/.config/sway/config"
+-'  267  20  ~/.config/sway/config
+|4,39,267,20,1591562771,"~/.config/sway/config"
+-'  267  20  ~/.config/sway/config
+|4,39,267,20,1591562771,"~/.config/sway/config"
+-'  267  20  ~/.config/sway/config
+|4,39,267,20,1591562771,"~/.config/sway/config"
+-'  267  20  ~/.config/sway/config
+|4,39,267,20,1591562771,"~/.config/sway/config"
+-'  1  0  ~/.config/waybar/style.css
+|4,39,1,0,1591562726,"~/.config/waybar/style.css"
+-'  1  0  ~/.config/waybar/style.css
+|4,39,1,0,1591562726,"~/.config/waybar/style.css"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  8  21  ~/.config/waybar/config
+|4,39,8,21,1591562710,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  1  0  ~/.config/waybar/config
+|4,39,1,0,1591562699,"~/.config/waybar/config"
+-'  256  0  ~/.config/sway/config
+|4,39,256,0,1591562171,"~/.config/sway/config"
+-'  256  0  ~/.config/sway/config
+|4,39,256,0,1591562171,"~/.config/sway/config"
+-'  256  0  ~/.config/sway/config
+|4,39,256,0,1591562171,"~/.config/sway/config"
+-'  256  0  ~/.config/sway/config
+|4,39,256,0,1591562171,"~/.config/sway/config"
+-'  256  0  ~/.config/sway/config
+|4,39,256,0,1591562171,"~/.config/sway/config"
+-'  256  0  ~/.config/sway/config
+|4,39,256,0,1591562171,"~/.config/sway/config"
+-'  256  0  ~/.config/sway/config
+|4,39,256,0,1591562171,"~/.config/sway/config"
+-'  256  0  ~/.config/sway/config
+|4,39,256,0,1591562171,"~/.config/sway/config"
+-'  142  19  ~/.config/sway/config
+|4,39,142,19,1591562169,"~/.config/sway/config"
+-'  142  19  ~/.config/sway/config
+|4,39,142,19,1591562169,"~/.config/sway/config"
+-'  142  19  ~/.config/sway/config
+|4,39,142,19,1591562169,"~/.config/sway/config"
+-'  142  19  ~/.config/sway/config
+|4,39,142,19,1591562169,"~/.config/sway/config"
+-'  142  19  ~/.config/sway/config
+|4,39,142,19,1591562169,"~/.config/sway/config"
+-'  142  19  ~/.config/sway/config
+|4,39,142,19,1591562169,"~/.config/sway/config"
+-'  142  19  ~/.config/sway/config
+|4,39,142,19,1591562169,"~/.config/sway/config"
+-'  142  19  ~/.config/sway/config
+|4,39,142,19,1591562169,"~/.config/sway/config"
+-'  266  19  ~/.config/sway/config
+|4,39,266,19,1591562029,"~/.config/sway/config"
+-'  266  19  ~/.config/sway/config
+|4,39,266,19,1591562029,"~/.config/sway/config"
+-'  266  19  ~/.config/sway/config
+|4,39,266,19,1591562029,"~/.config/sway/config"
+-'  266  19  ~/.config/sway/config
+|4,39,266,19,1591562029,"~/.config/sway/config"
+-'  266  19  ~/.config/sway/config
+|4,39,266,19,1591562029,"~/.config/sway/config"
+-'  266  19  ~/.config/sway/config
+|4,39,266,19,1591562029,"~/.config/sway/config"
+-'  266  19  ~/.config/sway/config
+|4,39,266,19,1591562029,"~/.config/sway/config"
+-'  266  19  ~/.config/sway/config
+|4,39,266,19,1591562029,"~/.config/sway/config"
+-'  65  4  ~/.config/sway/config
+|4,39,65,4,1591561940,"~/.config/sway/config"
+-'  65  4  ~/.config/sway/config
+|4,39,65,4,1591561940,"~/.config/sway/config"
+-'  65  4  ~/.config/sway/config
+|4,39,65,4,1591561940,"~/.config/sway/config"
+-'  65  4  ~/.config/sway/config
+|4,39,65,4,1591561940,"~/.config/sway/config"
+-'  65  4  ~/.config/sway/config
+|4,39,65,4,1591561940,"~/.config/sway/config"
+-'  65  4  ~/.config/sway/config
+|4,39,65,4,1591561940,"~/.config/sway/config"
+-'  65  4  ~/.config/sway/config
+|4,39,65,4,1591561940,"~/.config/sway/config"
+-'  65  4  ~/.config/sway/config
+|4,39,65,4,1591561940,"~/.config/sway/config"
+-'  83  0  ~/.config/sway/config
+|4,39,83,0,1591561939,"~/.config/sway/config"
+-'  83  0  ~/.config/sway/config
+|4,39,83,0,1591561939,"~/.config/sway/config"
+-'  83  0  ~/.config/sway/config
+|4,39,83,0,1591561939,"~/.config/sway/config"
+-'  83  0  ~/.config/sway/config
+|4,39,83,0,1591561939,"~/.config/sway/config"
+-'  83  0  ~/.config/sway/config
+|4,39,83,0,1591561939,"~/.config/sway/config"
+-'  83  0  ~/.config/sway/config
+|4,39,83,0,1591561939,"~/.config/sway/config"
+-'  83  0  ~/.config/sway/config
+|4,39,83,0,1591561939,"~/.config/sway/config"
+-'  83  0  ~/.config/sway/config
+|4,39,83,0,1591561939,"~/.config/sway/config"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/configeuh/.bashrc
+	*	1591564037	0
+	"	143	0
+
+> ~/.bashrc
+	*	1591564035	0
+	"	110	0
+	^	110	0
+	.	110	0
+	+	143	32
+	+	147	0
+	+	125	0
+	+	143	0
+	+	143	16
+	+	143	0
+	+	144	0
+	+	145	6
+	+	151	0
+	+	160	0
+	+	161	0
+	+	125	0
+	+	143	0
+	+	105	0
+	+	119	0
+	+	120	6
+	+	125	0
+	+	161	0
+	+	115	0
+	+	110	0
+	+	115	0
+	+	119	0
+	+	149	0
+	+	147	0
+	+	107	0
+	+	105	78
+	+	109	0
+	+	108	0
+	+	107	22
+	+	110	0
+
+> ~/.config/waybar/style.css
+	*	1591563433	0
+	"	35	14
+	^	35	15
+	.	35	14
+	+	1	3
+	+	1	0
+	+	1	49
+	+	1	1
+	+	71	0
+	+	1	0
+	+	2	56
+	+	1	0
+	+	38	80
+	+	114	0
+	+	30	0
+	+	5	0
+	+	4	0
+	+	19	0
+	+	4	37
+	+	75	33
+	+	80	0
+	+	41	0
+	+	75	0
+	+	89	36
+	+	112	19
+	+	112	0
+	+	95	0
+	+	93	1
+	+	95	37
+	+	85	0
+	+	89	21
+	+	95	8
+	+	85	15
+	+	86	33
+	+	92	35
+	+	98	35
+	+	85	16
+	+	86	31
+	+	85	13
+	+	91	16
+	+	92	34
+	+	97	16
+	+	98	35
+	+	91	0
+	+	97	19
+	+	98	37
+	+	92	37
+	+	91	15
+	+	85	15
+	+	97	15
+	+	98	31
+	+	107	34
+	+	20	16
+	+	17	1
+	+	16	21
+	+	20	15
+	+	41	0
+	+	41	15
+	+	41	13
+	+	40	0
+	+	41	0
+	+	34	27
+	+	35	14
+
+> /usr/share/X11/xkb/symbols/keypad
+	*	1591563360	0
+	"	1	0
+
+> ~/.config/sway/config
+	*	1591562771	0
+	"	267	20
+	^	267	21
+	.	267	20
+	+	22	65
+	+	22	64
+	+	22	0
+	+	22	122
+	+	269	0
+	+	270	45
+	+	270	64
+	+	100	0
+	+	99	0
+	+	100	15
+	+	100	0
+	+	100	46
+	+	206	0
+	+	278	90
+	+	270	0
+	+	279	0
+	+	280	13
+	+	293	0
+	+	282	96
+	+	283	0
+	+	100	0
+	+	286	0
+	+	287	0
+	+	272	0
+	+	271	21
+	+	272	29
+	+	271	63
+	+	24	41
+	+	24	0
+	+	286	0
+	+	293	0
+	+	285	0
+	+	258	19
+	+	257	4
+	+	258	21
+	+	261	0
+	+	260	0
+	+	206	0
+	+	199	4
+	+	199	0
+	+	199	3
+	+	206	0
+	+	204	16
+	+	204	0
+	+	272	0
+	+	206	0
+	+	272	0
+	+	272	52
+	+	205	16
+	+	202	33
+	+	288	60
+	+	289	0
+	+	293	0
+	+	290	11
+	+	291	0
+	+	251	0
+	+	254	0
+	+	253	4
+	+	281	46
+	+	282	55
+	+	281	47
+	+	280	0
+	+	24	0
+	+	290	20
+	+	260	19
+	+	259	39
+	+	260	18
+	+	259	21
+	+	260	18
+	+	29	64
+	+	29	0
+	+	260	18
+	+	278	0
+	+	22	18
+	+	22	146
+	+	32	68
+	+	31	0
+	+	32	0
+	+	31	14
+	+	27	10
+	+	31	22
+	+	29	0
+	+	27	12
+	+	29	1
+	+	32	69
+	+	38	0
+	+	27	0
+	+	28	39
+	+	29	80
+	+	32	69
+	+	35	0
+	+	32	1
+	+	33	0
+	+	263	9
+	+	266	28
+	+	267	20
+	+	266	0
+	+	267	20
+
+> ~/.config/waybar/config
+	*	1591562710	0
+	"	8	21
+	^	81	24
+	.	8	0
+	+	1	22
+	+	1	63
+	+	1	46
+	+	1	0
+	+	1	37
+	+	1	47
+	+	1	27
+	+	1	26
+	+	1	24
+	+	1	22
+	+	1	25
+	+	1	20
+	+	1	29
+	+	1	30
+	+	1	44
+	+	1	34
+	+	1	9
+	+	1	30
+	+	1	38
+	+	1	51
+	+	1	59
+	+	1	8
+	+	1	16
+	+	1	0
+	+	1	29
+	+	1	30
+	+	1	28
+	+	1	60
+	+	1	39
+	+	1	41
+	+	1	0
+	+	1	5
+	+	1	0
+	+	8	32
+	+	10	0
+	+	9	22
+	+	8	44
+	+	9	58
+	+	62	7
+	+	64	0
+	+	72	0
+	+	73	8
+	+	65	27
+	+	73	29
+	+	94	9
+	+	96	0
+	+	95	5
+	+	16	0
+	+	9	103
+	+	8	36
+	+	9	0
+	+	2	19
+	+	93	9
+	+	15	0
+	+	15	1
+	+	16	0
+	+	12	31
+	+	13	8
+	+	15	1
+	+	15	0
+	+	16	0
+	+	14	29
+	+	15	0
+	+	14	29
+	+	15	23
+	+	15	19
+	+	15	0
+	+	72	15
+	+	71	0
+	+	76	0
+	+	74	28
+	+	75	32
+	+	77	48
+	+	76	39
+	+	66	0
+	+	74	43
+	+	66	29
+	+	81	43
+	+	81	78
+	+	81	91
+	+	9	100
+	+	46	0
+	+	45	25
+	+	78	33
+	+	37	31
+	+	9	78
+	+	32	41
+	+	31	23
+	+	32	47
+	+	22	0
+	+	21	21
+	+	81	71
+	+	81	23
+	+	15	0
+	+	14	29
+	+	8	38
+	+	9	34
+	+	81	23
+	+	9	22
+	+	8	0
+
+> ~/.config/alacritty/alacritty.yml
+	*	1591561071	0
+	"	1	22
+	^	1	23
+	.	1	22
+	+	1	22
+
+> ~/PossiblesBG.txt
+	*	1591558626	0
+	"	15	0
+	^	15	48
+	.	15	34
+	+	15	34
+
+> ~/softs/yaourt/PKGBUILD
+	*	1591556811	0
+	"	1	0
+
+> ~/.config/waybar/old.config
+	*	1591556750	0
+	"	34	0
+
+> ~/.config/waybar/old.style.css
+	*	1591553860	0
+	"	15	0
+
+> ~/test
+	*	1591548481	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	2	0
+	+	1	0
+
+> ~/Téléchargements/Font Awesome 5 Free-Solid-900.otf
+	*	1591548401	0
+	"	70	0
+
+> /etc/default/grub
+	*	1591543885	0
+	"	1	0
+
+> /mnt/EFI/arch/grubx64.efi
+	*	1591534362	0
+	"	1	0
+
+> /etc/udev/rules.d/90-backlight.rules
+	*	1591477638	0
+	"	1	0
+
+> /usr/lib/udev/rules.d/90-backlight.rules
+	*	1591477431	0
+	"	7	0
+
+> ~/.config/mako/config
+	*	1591474834	0
+	"	3	0
+	.	3	0
+	+	3	0
+	+	2	30
+	+	3	13
+	+	3	0
+	+	3	16
+	+	2	0
+	+	1	0
+	+	2	0
+	+	1	0
+	+	3	0
+
+> ~/.config/swayshot.sh
+	*	1591464206	0
+	"	1	0
+
+> /usr/bin/swayshot
+	*	1591464205	0
+	"	35	0
+
+> ~/.config/sway/waybar.conf
+	*	1591445493	0
+	"	29	18
+	.	5	19
+	+	7	0
+	+	5	19
+
+> ~/.i3/config
+	*	1591440149	0
+	"	67	18
+
+> /media/sf_SharedFolder/SC/keys
+	*	1591364439	0
+	"	3	3
+	^	3	4
+	.	3	3
+	+	3	3
+
+> /media/sf_SharedFolder/SC/crypt
+	*	1591364314	0
+	"	7	0
+
+> ~/work/SDL/CMakeLists.txt
+	*	1591287800	0
+	"	1	0
+	.	87	0
+	+	58	0
+	+	87	0
+	+	13	0
+	+	87	0
+
+> ~/work/SDL/src/config/config_table.c
+	*	1591287764	0
+	"	587	0
+	.	587	0
+	+	747	0
+	+	747	35
+	+	747	47
+	+	747	22
+	+	747	41
+	+	517	0
+	+	747	0
+	+	747	1
+	+	747	26
+	+	747	45
+	+	747	25
+	+	747	44
+	+	747	0
+	+	747	1
+	+	747	42
+	+	747	0
+	+	687	0
+	+	195	81
+	+	195	90
+	+	195	173
+	+	83	24
+	+	84	0
+	+	83	10
+	+	84	36
+	+	87	44
+	+	196	29
+	+	196	156
+	+	202	0
+	+	196	78
+	+	198	28
+	+	198	111
+	+	199	195
+	+	519	34
+	+	1	1
+	+	519	54
+	+	1	1
+	+	518	0
+	+	517	21
+	+	698	0
+	+	701	1
+	+	698	33
+	+	700	51
+	+	85	23
+	+	197	167
+	+	698	0
+	+	85	4
+	+	197	120
+	+	712	0
+	+	713	28
+	+	718	28
+	+	715	47
+	+	720	47
+	+	88	28
+	+	89	0
+	+	200	35
+	+	201	0
+	+	200	95
+	+	201	0
+	+	200	81
+	+	200	187
+	+	201	181
+	+	713	0
+	+	103	0
+	+	187	0
+	+	677	0
+	+	28	0
+	+	239	0
+	+	733	0
+	+	111	0
+	+	65	0
+	+	165	0
+	+	587	0
+
+> ~/work/SDL/src/include/config_table.h
+	*	1591287762	0
+	"	1	0
+	^	355	3
+	.	325	0
+	+	511	0
+	+	510	0
+	+	511	0
+	+	439	0
+	+	443	0
+	+	439	0
+	+	445	0
+	+	457	0
+	+	463	0
+	+	439	0
+	+	440	47
+	+	446	56
+	+	458	68
+	+	464	81
+	+	458	68
+	+	443	44
+	+	449	39
+	+	461	49
+	+	467	49
+	+	450	0
+	+	455	2
+	+	452	46
+	+	455	0
+	+	473	0
+	+	479	49
+	+	473	44
+	+	469	0
+	+	474	0
+	+	470	0
+	+	479	50
+	+	470	57
+	+	476	55
+	+	444	0
+	+	443	6
+	+	449	6
+	+	455	6
+	+	461	6
+	+	467	6
+	+	473	6
+	+	479	6
+	+	427	0
+	+	493	0
+	+	325	0
+
+> ~/work/SDL/.gitignore
+	*	1591287462	0
+	"	16	0
+	^	17	4
+	.	15	0
+	+	17	0
+	+	11	0
+	+	15	0
+
+> ~/work/SDL/src/include/load_table.h
+	*	1591286975	0
+	"	62	0
+	.	52	0
+	+	52	0
+	+	30	0
+	+	40	0
+	+	52	0
+
+> ~/work/SDL/src/client/info_client.c
+	*	1591286974	0
+	"	316	0
+	^	316	15
+	.	316	0
+	+	316	0
+
+> ~/work/SDL/src/load_table/load_table.c
+	*	1591286586	0
+	"	71	39
+	^	71	40
+	.	71	39
+	+	68	3
+	+	68	50
+	+	68	51
+	+	68	48
+	+	68	0
+	+	68	5
+	+	73	5
+	+	73	14
+	+	82	0
+	+	82	5
+	+	82	28
+	+	82	5
+	+	82	20
+	+	82	25
+	+	82	8
+	+	82	36
+	+	10	0
+	+	68	0
+	+	82	0
+	+	8	0
+	+	17	0
+	+	41	0
+	+	21	0
+	+	22	7
+	+	23	11
+	+	24	13
+	+	23	8
+	+	22	11
+	+	24	6
+	+	25	11
+	+	26	12
+	+	27	0
+	+	40	0
+	+	39	0
+	+	37	0
+	+	38	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	47	16
+	+	48	19
+	+	49	12
+	+	50	16
+	+	51	11
+	+	52	0
+	+	62	0
+	+	63	0
+	+	62	0
+	+	63	0
+	+	68	0
+	+	68	5
+	+	73	0
+	+	73	5
+	+	82	8
+	+	73	5
+	+	82	7
+	+	68	0
+	+	73	0
+	+	82	0
+	+	79	0
+	+	79	49
+	+	82	0
+	+	73	22
+	+	68	0
+	+	68	22
+	+	66	0
+	+	51	38
+	+	47	25
+	+	50	25
+	+	11	0
+	+	66	0
+	+	73	0
+	+	70	0
+	+	61	39
+	+	62	39
+	+	8	0
+	+	9	0
+	+	5	0
+	+	8	0
+	+	7	0
+	+	8	0
+	+	10	0
+	+	73	0
+	+	68	0
+	+	69	0
+	+	68	19
+	+	71	37
+	+	78	0
+	+	79	0
+	+	78	0
+	+	79	19
+	+	77	17
+	+	76	0
+	+	75	82
+	+	78	6
+	+	71	6
+	+	45	0
+	+	71	39
+
+> /media/sf_SharedFolder/workspace/SDL/src/client/info_client.c
+	*	1591286012	0
+	"	40	23
+
+> /media/sf_SharedFolder/workspace/SDL/src/client/upload_client.c
+	*	1591286011	0
+	"	151	0
+
+> /media/sf_SharedFolder/workspace/SDL/libs_lpt/test/testLptTable2.c
+	*	1591285959	0
+	"	96	73
+	.	45	0
+	+	45	0
+
+> /media/sf_SharedFolder/workspace/SDL/src/load_table/load_table.c
+	*	1591285821	0
+	"	634	70
+
+> ~/work/SDL/.git/COMMIT_EDITMSG
+	*	1591283335	0
+	"	1	0
+
+> ~/work/SDL/src/upload/upload_task.c
+	*	1591283319	0
+	"	266	8
+	^	259	21
+	.	259	20
+	+	65	86
+	+	64	12
+	+	196	13
+	+	194	0
+	+	196	0
+	+	209	0
+	+	210	0
+	+	484	0
+	+	485	0
+	+	790	0
+	+	790	24
+	+	790	0
+	+	774	0
+	+	773	0
+	+	771	21
+	+	772	0
+	+	790	25
+	+	700	0
+	+	612	0
+	+	604	0
+	+	575	0
+	+	645	32
+	+	575	17
+	+	602	21
+	+	606	11
+	+	645	19
+	+	184	0
+	+	210	0
+	+	206	0
+	+	212	0
+	+	210	0
+	+	298	0
+	+	303	0
+	+	321	0
+	+	295	0
+	+	362	0
+	+	386	17
+	+	393	23
+	+	394	0
+	+	424	0
+	+	421	17
+	+	432	0
+	+	427	0
+	+	425	0
+	+	443	17
+	+	448	0
+	+	451	0
+	+	455	0
+	+	462	0
+	+	478	4
+	+	470	29
+	+	478	0
+	+	471	32
+	+	479	0
+	+	482	0
+	+	479	57
+	+	482	0
+	+	476	0
+	+	472	18
+	+	474	0
+	+	473	0
+	+	471	0
+	+	474	0
+	+	480	0
+	+	474	15
+	+	475	0
+	+	482	0
+	+	477	0
+	+	478	0
+	+	481	24
+	+	504	17
+	+	508	18
+	+	505	23
+	+	508	18
+	+	509	0
+	+	518	0
+	+	505	0
+	+	520	0
+	+	502	0
+	+	1087	0
+	+	1099	4
+	+	1087	18
+	+	1088	19
+	+	1089	17
+	+	1090	18
+	+	1101	0
+	+	1103	0
+	+	1107	0
+	+	1129	0
+	+	1131	56
+	+	1131	112
+	+	1132	0
+	+	1131	110
+	+	1131	54
+	+	1130	45
+	+	1129	54
+	+	1131	55
+	+	1143	0
+	+	1242	0
+	+	259	20
+
+> ~/work/SDL/.config.cfg
+	*	1591282387	0
+	"	3	0
+	^	210	90
+	.	210	89
+	+	8	16
+	+	13	14
+	+	15	0
+	+	16	0
+	+	15	18
+	+	17	0
+	+	18	0
+	+	8	23
+	+	215	6
+	+	8	16
+	+	13	20
+	+	15	14
+	+	17	18
+	+	15	12
+	+	13	14
+	+	31	18
+	+	212	116
+	+	212	0
+	+	212	63
+	+	211	12
+	+	212	73
+	+	20	24
+	+	28	25
+	+	29	0
+	+	19	35
+	+	25	53
+	+	27	60
+	+	25	15
+	+	25	0
+	+	22	0
+	+	61	0
+	+	62	7
+	+	64	7
+	+	61	11
+	+	63	0
+	+	212	0
+	+	212	206
+	+	211	12
+	+	212	66
+	+	212	133
+	+	212	68
+	+	212	21
+	+	212	0
+	+	212	183
+	+	8	15
+	+	212	116
+	+	212	0
+	+	212	152
+	+	212	0
+	+	212	226
+	+	211	12
+	+	8	15
+	+	31	18
+	+	212	72
+	+	211	12
+	+	212	0
+	+	212	259
+	+	212	117
+	+	211	12
+	+	212	171
+	+	211	0
+	+	211	55
+	+	211	12
+	+	124	0
+	+	212	154
+	+	212	0
+	+	212	205
+	+	212	0
+	+	212	219
+	+	212	0
+	+	212	197
+	+	212	100
+	+	212	0
+	+	212	62
+	+	212	0
+	+	212	213
+	+	173	0
+	+	212	146
+	+	200	0
+	+	211	0
+	+	208	47
+	+	211	0
+	+	208	48
+	+	210	89
+
+> ~/work/SDL/src/include/self_dl_conf.h
+	*	1591277673	0
+	"	59	0
+	^	87	6
+	.	97	0
+	+	34	57
+	+	63	0
+	+	85	0
+	+	86	0
+	+	85	0
+	+	86	0
+	+	67	48
+	+	75	0
+	+	101	28
+	+	102	0
+	+	101	27
+	+	97	0
+	+	87	4
+	+	97	0
+
+> ~/work/SDL/common/include/portab.h
+	*	1591277395	0
+	"	65	0
+
+> ~/work/SDL/common/platform/thread/thread.c
+	*	1591273687	0
+	"	76	0
+
+> ~/work/SDL/common/include/debug.h
+	*	1591272790	0
+	"	12	12
+
+> ~/work/SDL/src/config/self_dl_conf.c
+	*	1591272668	0
+	"	1	0
+	^	34	79
+	.	102	93
+	+	63	46
+	+	244	16
+	+	151	0
+	+	267	20
+	+	277	20
+	+	32	34
+	+	35	0
+	+	115	0
+	+	132	0
+	+	148	0
+	+	154	0
+	+	132	0
+	+	117	0
+	+	115	0
+	+	119	0
+	+	123	0
+	+	127	0
+	+	130	0
+	+	244	0
+	+	277	0
+	+	277	17
+	+	277	39
+	+	275	0
+	+	274	17
+	+	275	39
+	+	277	0
+	+	277	18
+	+	101	30
+	+	186	0
+	+	274	0
+	+	277	0
+	+	265	57
+	+	271	53
+	+	265	53
+	+	203	33
+	+	205	0
+	+	168	0
+	+	101	30
+	+	161	0
+	+	166	0
+	+	165	23
+	+	253	47
+	+	262	36
+	+	165	0
+	+	152	67
+	+	168	95
+	+	15	93
+	+	16	95
+	+	30	0
+	+	34	79
+	+	102	93
+
+> ~/work/SDL/src/config/CMakeLists.txt
+	*	1591270561	0
+	"	1	0
+
+> ~/work/SDL/src/supervision/main.c
+	*	1591258419	0
+	"	31	0
+	^	72	38
+	.	31	0
+	+	115	14
+	+	115	0
+	+	117	0
+	+	34	0
+	+	88	0
+	+	115	0
+	+	67	34
+	+	69	36
+	+	72	37
+	+	75	0
+	+	87	0
+	+	57	0
+	+	31	0
+
+> ~/work/SDL/src/client/upload_client.c
+	*	1591257515	0
+	"	21	29
+	.	22	0
+	+	58	31
+	+	444	34
+	+	278	0
+	+	279	0
+	+	278	16
+	+	741	0
+	+	814	0
+	+	817	0
+	+	814	4
+	+	849	0
+	+	855	0
+	+	850	65
+	+	854	12
+	+	856	0
+	+	853	42
+	+	852	82
+	+	850	64
+	+	809	0
+	+	792	0
+	+	802	0
+	+	809	0
+	+	799	0
+	+	794	0
+	+	801	19
+	+	803	0
+	+	850	76
+	+	866	58
+	+	899	55
+	+	929	24
+	+	964	0
+	+	965	23
+	+	966	0
+	+	963	37
+	+	755	0
+	+	56	0
+	+	1	0
+	+	249	21
+	+	249	123
+	+	249	0
+	+	1	0
+	+	22	0
+
+> ~/work/SDL/src/supervision/CMakeLists.txt
+	*	1591257376	0
+	"	15	21
+	^	15	22
+	.	15	21
+	+	53	0
+	+	52	0
+	+	51	32
+	+	51	0
+	+	51	47
+	+	51	0
+	+	15	0
+	+	16	0
+	+	15	21
+
+> ~/work/SDL/common/platform/gpio_onoff/gpio_onoff_cmd_linux.c
+	*	1591198342	0
+	"	74	0
+
+> ~/work/SDL/src/client/upload_client_loc.h
+	*	1591198235	0
+	"	1	0
+
+> ~/work/SDL/src/client/info_client_loc.h
+	*	1591197040	0
+	"	1	0
+
+> ~/work/SDL/src/client/CMakeLists.txt
+	*	1591196136	0
+	"	5	0
+	.	5	0
+	+	5	0
+	+	6	0
+	+	5	0
+
+> ~/work/SDL/src/client/client_loc.h
+	*	1591196134	0
+	"	1	0
+
+> ~/work/SDL/src/client/client.c
+	*	1591196120	0
+	"	314	0
+	.	150	0
+	+	148	0
+	+	148	4
+	+	149	0
+	+	149	4
+	+	139	0
+	+	20	0
+	+	160	0
+	+	176	0
+	+	160	12
+	+	18	0
+	+	137	0
+	+	148	0
+	+	150	31
+	+	137	0
+	+	149	0
+	+	150	0
+	+	151	0
+	+	150	0
+
+> ~/work/SDL/src/CMakeLists.txt
+	*	1591191411	0
+	"	7	0
+	.	7	0
+	+	13	0
+	+	7	0
+
+> ~/work/SDL/src/nor/CMakeLists.txt
+	*	1591191294	0
+	"	3	0
+
+> ~/work/SDL/src/load_table/CMakeLists.txt
+	*	1591191257	0
+	"	1	0
+	.	1	0
+	+	2	0
+	+	1	0
+
+> ~/work/SDL/src/compatibilities/CMakeLists.txt
+	*	1591191026	0
+	"	1	0
+
+> ~/work/SDL/src/supervision/main
+	*	1591190983	0
+	"	1	0
+
+> ~/work/SDL/src/compatibilities/compatibilities.c
+	*	1591190976	0
+	"	364	20
+	^	400	42
+	.	399	41
+	+	355	0
+	+	354	0
+	+	355	0
+	+	354	24
+	+	385	37
+	+	390	24
+	+	389	24
+	+	388	87
+	+	400	27
+	+	401	0
+	+	399	41
+
+> ~/work/SDL/src/include/status_desc.h
+	*	1591190374	0
+	"	90	0
+	^	90	88
+	.	90	87
+	+	89	65
+	+	90	87
+
+> ~/work/SDL/src/include/compatibilities.h
+	*	1591189507	0
+	"	89	0
+
+> ~/work/SDL/src/nor/nor.c
+	*	1591114515	0
+	"	1	0
+	.	28	0
+	+	140	0
+	+	140	5
+	+	140	0
+	+	140	14
+	+	140	5
+	+	140	0
+	+	140	5
+	+	140	14
+	+	140	0
+	+	140	22
+	+	140	12
+	+	140	18
+	+	44	0
+	+	140	0
+	+	28	0
+
+> ~/work/SDL/src/include/nor.h
+	*	1591114401	0
+	"	1	0
+	.	50	0
+	+	51	0
+	+	50	0
+
+> ~/work/SDL/src/supervision/main.c:59
+	*	1591114135	0
+	"	1	0
+
+> ~/work/SDL/libs_lpt/include/loadPartTable.h
+	*	1591114066	0
+	"	744	0
+
+> ~/work/SDL/src/include/client.h
+	*	1591112131	0
+	"	1	0
+
+> ~/work/SDL/src/include/info.h
+	*	1591108566	0
+	"	1	0
+
+> ~/work/SDL/src/cscope.out
+	*	1591108265	0
+	"	1	0
+
+> ~/work/SDL/src/tags
+	*	1591108256	0
+	"	440	22
+
+> ~/.vim/plugin/cscope_maps.vim
+	*	1591106917	0
+	"	4	0
+	^	122	0
+	.	165	0
+	+	165	0
+
+> ~/.vimrc
+	*	1591106914	0
+	"	2	0
+	^	143	0
+	.	144	0
+	+	43	17
+	+	44	19
+	+	41	17
+	+	42	19
+	+	108	0
+	+	144	0
+
+> ~/.vim/bundle/Vundle.vim/autoload/vundle.vim
+	*	1591106913	0
+	"	90	0
+
+> /etc/resolv.conf
+	*	1591106524	0
+	"	2	0
+	^	2	1
+	.	2	0
+	+	2	0
+
+> ~/work/SDL/src/upload/CMakeLists.txt
+	*	1591106074	0
+	"	4	0
+	^	5	52
+	.	4	0
+	+	5	51
+	+	4	0
+
+> ~/work/SDL/src/include/luh_custom.h
+	*	1591103297	0
+	"	58	14
+
+> ~/work/SDL/src/libs/luh_custom/luh_custom.c
+	*	1591103296	0
+	"	143	0
+
+> ~/work/SDL/src/libs/luh_custom/CMakeLists.txt
+	*	1591103292	0
+	"	3	0
+
+> ~/work/SDL/src/libs/CMakeLists.txt
+	*	1591103291	0
+	"	2	0
+	^	2	18
+	.	2	0
+	+	2	0
+
+> ~/work/SDL/src/include/uplTask.h
+	*	1591102474	0
+	"	20	6
+
+> src/config/config_table.c
+	*	1591102381	0
+	"	1	0
+
+> ~/work/SDL/src/.config.cfg
+	*	1591099752	0
+	"	1	0
+
+> ~/work/DataLoader/dataloader/config/target_table_0102.csv
+	*	1590758427	0
+	"	61	0
+	^	61	59
+	.	61	58
+	+	90	6
+	+	27	0
+	+	61	0
+	+	62	0
+	+	63	0
+	+	64	0
+	+	65	0
+	+	67	0
+	+	68	0
+	+	61	58
+
+> ~/work/DataLoader/dataloader/config/linux/host/config.cfg
+	*	1590758106	0
+	"	1	0
+	^	171	18
+	.	6	24
+	+	4	21
+	+	5	24
+	+	6	20
+	+	32	0
+	+	146	25
+	+	152	29
+	+	7	13
+	+	4	21
+	+	5	24
+	+	6	24
+
+> ~/work/DataLoader/dataloader/tests/dataloader/environment/command_dl/config.cfg
+	*	1590757242	0
+	"	2	0
+	^	5	26
+	.	5	25
+	+	2	14
+	+	5	28
+	+	5	25
+	+	2	14
+	+	5	25
+
+> /media/sf_SharedFolder/workspace/SDL/config.cfg
+	*	1590682694	0
+	"	1	0
+	^	8	24
+	.	8	24
+	+	8	24
+
+> ~/work/SDL/common/platform/sport/src/SPORT_linux_code.c
+	*	1590682468	0
+	"	542	12
+
+> ~/work/SDL/common/libs/hb_com/src/HB_COM_tsf_code.c
+	*	1590682411	0
+	"	124	40
+
+> ~/work/SDL/common/platform/log/log.c
+	*	1590682378	0
+	"	76	4
+	.	74	0
+	+	74	0
+	+	77	4
+	+	77	0
+	+	74	0
+
+> ~/test2.hex
+	*	1590681742	0
+	"	11	0
+
+> /media/sf_SharedFolder/git/dataloader/src/client/upload_client.c
+	*	1590681593	0
+	"	874	0
+
+> ~/work/SDL/libs_lpt/loadPartTable.c
+	*	1590679321	0
+	"	361	8
+
+> ~/work/SDL/libs_lpt/loadPartTable.c:249
+	*	1590675942	0
+	"	1	0
+
+> ~/work/SDL/src/include/uplSC.h
+	*	1590675752	0
+	"	8	0
+	^	23	12
+	.	7	0
+	+	1	13
+	+	2	0
+	+	39	15
+	+	26	0
+	+	11	0
+	+	11	91
+	+	11	0
+	+	14	2
+	+	9	28
+	+	36	29
+	+	32	0
+	+	21	16
+	+	24	0
+	+	24	12
+	+	24	13
+	+	32	5
+	+	21	14
+	+	32	69
+	+	33	21
+	+	24	14
+	+	4	18
+	+	9	0
+	+	5	15
+	+	32	63
+	+	33	63
+	+	6	18
+	+	6	0
+	+	24	0
+	+	15	68
+	+	16	0
+	+	16	50
+	+	17	2
+	+	16	33
+	+	9	52
+	+	23	11
+	+	32	39
+	+	7	0
+
+> ~/work/SDL/src/libs/uplSC/uplSC.c
+	*	1590675749	0
+	"	17	18
+	^	4	19
+	.	4	18
+	+	7	32
+	+	20	0
+	+	25	32
+	+	4	17
+	+	29	15
+	+	4	18
+
+> ~/work/SDL/prepare_tuit_linux_custom_cbe.sh
+	*	1590671913	0
+	"	13	21
+	^	13	22
+	.	13	21
+	+	11	21
+	+	10	23
+	+	9	22
+	+	13	21
+
+> ~/work/SDL/.config
+	*	1590670498	0
+	"	1	0
+
+> ~/test1.hex
+	*	1590665909	0
+	"	11	0
+
+> ~/work/SDL/common/platform/disk/disk.c
+	*	1590665770	0
+	"	221	41
+
+> ~/SignatureChecker.sh
+	*	1590665096	0
+	"	18	0
+	^	22	1
+	.	22	0
+	+	1	11
+	+	2	0
+	+	1	1
+	+	22	0
+	+	20	0
+	+	18	7
+	+	12	0
+	+	26	0
+	+	7	29
+	+	14	0
+	+	11	5
+	+	14	7
+	+	15	30
+	+	17	34
+	+	22	26
+	+	19	60
+	+	20	24
+	+	19	61
+	+	22	41
+	+	12	12
+	+	20	0
+	+	22	16
+	+	21	43
+	+	22	0
+	+	21	24
+	+	18	0
+	+	19	23
+	+	21	25
+	+	19	24
+	+	21	25
+	+	17	0
+	+	12	12
+	+	23	9
+	+	13	0
+	+	12	13
+	+	22	0
+
+> ~/work/SDL/libs_dl/include/codecs/a665.h
+	*	1590663219	0
+	"	87	11

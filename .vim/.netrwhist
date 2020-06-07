@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/cbe/.vim/bundle/Vundle.vim/autoload'
+let g:netrw_dirhist_8='/home/cbe/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_7='/home/cbe/.vim/bundle'
+let g:netrw_dirhist_6='/home/cbe/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_5='/home/cbe/work/SDL'
+let g:netrw_dirhist_4='/home/cbe/work/SDL/src'
+let g:netrw_dirhist_3='/home/cbe/work/SDL/src/config'
+let g:netrw_dirhist_2='/home/cbe/work/SDL/config'
+let g:netrw_dirhist_1='/media/sf_SharedFolder/workspace/SDL/config'
